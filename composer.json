@@ -1,0 +1,17 @@
+{
+    "name": "wcs/composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Subneed17",
+            "email": "Vincentcabon0107@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.3",
+        "erusev/parsedown": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {"Wcs\\": "src/"}
+    }
+}
