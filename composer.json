@@ -12,6 +12,6 @@
         "erusev/parsedown": "^1.7"
     },
     "autoload": {
-        "psr-4": {"Wcs\\": "src/"}
+        "psr-4": {"App\\": "src/"}
     }
 }
